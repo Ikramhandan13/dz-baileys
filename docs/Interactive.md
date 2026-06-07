@@ -91,8 +91,8 @@ const interactiveMessage = {
         name: "cta_url",
         buttonParamsJson: JSON.stringify({
           display_text: "Buka GitHub",
-          url: "https://github.com/Dz/dz-baileys",
-          merchant_url: "https://github.com/Dz/dz-baileys"
+          url: "https://github.com/Ikramhandan13/dz-baileys",
+          merchant_url: "https://github.com/Ikramhandan13/dz-baileys"
         })
       }
     ],

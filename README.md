@@ -5,11 +5,11 @@
 <h1 align="center">DzBailey - Bun Optimized Patch</h1>
 
 <p align="center">
-  <a href="https://github.com/Dz/dz-baileys">
-    <img src="https://img.shields.io/github/stars/Dz/dz-baileys?style=for-the-badge&logo=github&color=blue" alt="Stars">
+  <a href="https://github.com/Ikramhandan13/dz-baileys">
+    <img src="https://img.shields.io/github/stars/Ikramhandan13/dz-baileys?style=for-the-badge&logo=github&color=blue" alt="Stars">
   </a>
-  <a href="https://github.com/Dz/dz-baileys/network/members">
-    <img src="https://img.shields.io/github/forks/Dz/dz-baileys?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  <a href="https://github.com/Ikramhandan13/dz-baileys/network/members">
+    <img src="https://img.shields.io/github/forks/Ikramhandan13/dz-baileys?style=for-the-badge&logo=github&color=blue" alt="Forks">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
@@ -53,7 +53,7 @@ Jelajahi panduan lengkap cara penggunaan fitur-fitur di atas:
 Gunakan **Bun** untuk performa terbaik:
 
 ```bash
-bun add github:Dz/dz-baileys
+bun add github:Ikramhandan13/dz-baileys
 ```
 
 ---

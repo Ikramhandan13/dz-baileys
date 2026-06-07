@@ -6,7 +6,7 @@ Panduan cepat untuk memulai menggunakan library DzBailey yang sudah di-patch ini
 Karena library ini berada di repositori personal Anda, instal menggunakan Bun:
 
 ```bash
-bun add github:Dz/dz-baileys
+bun add github:Ikramhandan13/dz-baileys
 ```
 
 ## 2. Koneksi Pertama (Pairing Code)
