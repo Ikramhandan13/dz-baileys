@@ -12,7 +12,7 @@ Library ini mendukung penyimpanan *authentication state* ke dalam satu file data
 Gunakan `useSqliteAuthState` alih-alih `useMultiFileAuthState`.
 
 ```javascript
-import makeWASocket, { useSqliteAuthState } from 'baileys'
+import makeWASocket, { useSqliteAuthState } from 'DzBailey'
 
 async function startBot() {
     // Simpan semua data sesi ke file 'session.db'

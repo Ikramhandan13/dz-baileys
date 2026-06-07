@@ -13,11 +13,11 @@ Repositori ini telah di-patch untuk mendukung pesan interaktif modern WhatsApp (
 Digunakan untuk interaksi cepat yang mengirimkan teks/ID kembali ke bot.
 
 ```javascript
-import { proto, generateWAMessageFromContent } from 'baileys'
+import { proto, generateWAMessageFromContent } from 'DzBailey'
 
 const interactiveMessage = {
   body: { text: "Pilih salah satu tombol di bawah:" },
-  footer: { text: "Powered by Baileys Patch" },
+  footer: { text: "Powered by DzBailey Patch" },
   header: { title: "Hello World", hasMediaAttachment: false },
   nativeFlowMessage: {
     buttons: [
@@ -91,8 +91,8 @@ const interactiveMessage = {
         name: "cta_url",
         buttonParamsJson: JSON.stringify({
           display_text: "Buka GitHub",
-          url: "https://github.com/vanes430/baileys",
-          merchant_url: "https://github.com/vanes430/baileys"
+          url: "https://github.com/Dz/dz-baileys",
+          merchant_url: "https://github.com/Dz/dz-baileys"
         })
       }
     ],

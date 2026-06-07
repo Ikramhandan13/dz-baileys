@@ -1,19 +1,19 @@
 # 🚀 Quick Start Guide
 
-Panduan cepat untuk memulai menggunakan library Baileys yang sudah di-patch ini.
+Panduan cepat untuk memulai menggunakan library DzBailey yang sudah di-patch ini.
 
 ## 1. Instalasi
 Karena library ini berada di repositori personal Anda, instal menggunakan Bun:
 
 ```bash
-bun add github:vanes430/baileys
+bun add github:Dz/dz-baileys
 ```
 
 ## 2. Koneksi Pertama (Pairing Code)
 Gunakan kode berikut untuk menghubungkan bot tanpa scan QR:
 
 ```javascript
-import makeWASocket, { useMultiFileAuthState } from 'baileys'
+import makeWASocket, { useMultiFileAuthState } from 'DzBailey'
 
 async function startBot() {
     const { state, saveCreds } = await useMultiFileAuthState('auth_session')
@@ -68,4 +68,4 @@ await sock.relayMessage(jid, msg.message, { messageId: msg.key.id })
 * **`docs/CustomPairing.md`**: Detail tentang aturan custom pairing code.
 
 ---
-© 2026 vanes430 - Advanced Baileys Library
+© 2026 Dz - Advanced DzBailey Library

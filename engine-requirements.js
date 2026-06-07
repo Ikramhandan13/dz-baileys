@@ -17,7 +17,7 @@ const minor = parseInt(bunVersion.split(".")[1], 10);
 if (major < 1 || (major === 1 && minor < 3)) {
     console.error(
         "\n========================================\n" +
-        " Baileys requires Bun 1.3+ to run       \n" +
+        " DzBailey requires Bun 1.3+ to run       \n" +
         "----------------------------------------\n" +
         `   You are using Bun ${bunVersion}\n` +
         "   Please upgrade to Bun 1.3+ to proceed.\n" +

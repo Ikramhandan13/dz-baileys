@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WhiskeySockets/Baileys/refs/heads/master/Media/logo.png" width="300" alt="Baileys Logo">
+  <img src="https://raw.githubusercontent.com/WhiskeySockets/Baileys/refs/heads/master/Media/logo.png" width="300" alt="DzBailey Logo">
 </p>
 
-<h1 align="center">Baileys - Bun Optimized Patch</h1>
+<h1 align="center">DzBailey - Bun Optimized Patch</h1>
 
 <p align="center">
-  <a href="https://github.com/vanes430/baileys">
-    <img src="https://img.shields.io/github/stars/vanes430/baileys?style=for-the-badge&logo=github&color=blue" alt="Stars">
+  <a href="https://github.com/Dz/dz-baileys">
+    <img src="https://img.shields.io/github/stars/Dz/dz-baileys?style=for-the-badge&logo=github&color=blue" alt="Stars">
   </a>
-  <a href="https://github.com/vanes430/baileys/network/members">
-    <img src="https://img.shields.io/github/forks/vanes430/baileys?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  <a href="https://github.com/Dz/dz-baileys/network/members">
+    <img src="https://img.shields.io/github/forks/Dz/dz-baileys?style=for-the-badge&logo=github&color=blue" alt="Forks">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
@@ -53,7 +53,7 @@ Jelajahi panduan lengkap cara penggunaan fitur-fitur di atas:
 Gunakan **Bun** untuk performa terbaik:
 
 ```bash
-bun add github:vanes430/baileys
+bun add github:Dz/dz-baileys
 ```
 
 ---
@@ -62,10 +62,10 @@ bun add github:vanes430/baileys
 
 *   [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Original Library maintainers.
 *   [naruyaizumi/baileys](https://github.com/naruyaizumi/baileys) - Bun Refactor & Optimization base.
-*   **vanes430** - Interactive Messaging Patch & Advanced Features.
+*   **Dz** - Interactive Messaging Patch & Advanced Features.
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/vanes430">vanes430</a>
+  Made with ❤️ by <a href="https://github.com/Dz">Dz</a>
 </p>
