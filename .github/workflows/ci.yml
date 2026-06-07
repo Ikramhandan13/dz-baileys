@@ -45,7 +45,7 @@ jobs:
           echo "🔎 Checking JS syntax with Bun..."
           ERRORS=0
           for f in $(find lib -name '*.js' -type f); do
-            if ! bun build --no-bundle "$f" --outdir /tmp/syntax-check > /dev/null 2>&1; then
+            if ! bun build --no-bundle "$f" > /dev/null 2>&1; then
               echo "❌ Syntax error: $f"
               ERRORS=$((ERRORS + 1))
             fi
